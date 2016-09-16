@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Editors">
+        <folder name="text">
+            <folder name="x-java">
+                <folder name="OnSave">
+                    <file name="com-tlf-collapseemptyblocks-CollapseEmptyBlocksFactory.instance">
+                        <!--com.tlf.collapseemptyblocks.CollapseEmptyBlocksFactory-->
+                        <attr intvalue="1610" name="position"/>
+                        <attr name="instanceOf" stringvalue="org.netbeans.spi.editor.document.OnSaveTask$Factory"/>
+                    </file>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>
